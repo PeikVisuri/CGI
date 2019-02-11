@@ -1,0 +1,7 @@
+C:\Users\Peik\source\repos\CGI_Project\CGI_Project\bin\Debug\CGI_Project.exe.config
+C:\Users\Peik\source\repos\CGI_Project\CGI_Project\bin\Debug\CGI_Project.exe
+C:\Users\Peik\source\repos\CGI_Project\CGI_Project\bin\Debug\CGI_Project.pdb
+C:\Users\Peik\source\repos\CGI_Project\CGI_Project\obj\Debug\CGI_Project.csprojAssemblyReference.cache
+C:\Users\Peik\source\repos\CGI_Project\CGI_Project\obj\Debug\CGI_Project.csproj.CoreCompileInputs.cache
+C:\Users\Peik\source\repos\CGI_Project\CGI_Project\obj\Debug\CGI_Project.exe
+C:\Users\Peik\source\repos\CGI_Project\CGI_Project\obj\Debug\CGI_Project.pdb
